@@ -12,7 +12,7 @@ Download the compressed ZIP file and unzip.
 
 To play the game open the path "Executable/WindowsNoEditor" and open the executable.
 
-To Open the project in Unreal, open the "twinStickShooter" project in the main folder.
+To open the project in Unreal, open the "twinStickShooter" project in the main folder.
 
 # Details of the Project
 
