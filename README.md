@@ -8,8 +8,6 @@ Clone the Repository using the git command line.
 
 EX: git clone "URL of repo".
 
-Download the compressed ZIP file and unzip.
-
 To play the game open the path "Executable/WindowsNoEditor" and open the executable.
 
 To open the project in Unreal, open the "twinStickShooter" project in the main folder.
